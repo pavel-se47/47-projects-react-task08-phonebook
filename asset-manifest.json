@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/47-projects-react-task08-phonebook/static/css/main.fc342f6a.css",
+    "main.js": "/47-projects-react-task08-phonebook/static/js/main.45aa911f.js",
+    "home-page.css": "/47-projects-react-task08-phonebook/static/css/home-page.53dc3b9a.chunk.css",
+    "home-page.js": "/47-projects-react-task08-phonebook/static/js/home-page.9007f6b1.chunk.js",
+    "login-page.css": "/47-projects-react-task08-phonebook/static/css/login-page.1264cc2b.chunk.css",
+    "login-page.js": "/47-projects-react-task08-phonebook/static/js/login-page.fb301815.chunk.js",
+    "regiter-page.css": "/47-projects-react-task08-phonebook/static/css/regiter-page.ab1d0023.chunk.css",
+    "regiter-page.js": "/47-projects-react-task08-phonebook/static/js/regiter-page.aacf2466.chunk.js",
+    "contacts-page.css": "/47-projects-react-task08-phonebook/static/css/contacts-page.45411794.chunk.css",
+    "contacts-page.js": "/47-projects-react-task08-phonebook/static/js/contacts-page.a05cd4bd.chunk.js",
+    "static/media/default-avatar.png": "/47-projects-react-task08-phonebook/static/media/default-avatar.e44fc4e22a4ce55fbe43.png",
+    "index.html": "/47-projects-react-task08-phonebook/index.html",
+    "main.fc342f6a.css.map": "/47-projects-react-task08-phonebook/static/css/main.fc342f6a.css.map",
+    "main.45aa911f.js.map": "/47-projects-react-task08-phonebook/static/js/main.45aa911f.js.map",
+    "home-page.53dc3b9a.chunk.css.map": "/47-projects-react-task08-phonebook/static/css/home-page.53dc3b9a.chunk.css.map",
+    "home-page.9007f6b1.chunk.js.map": "/47-projects-react-task08-phonebook/static/js/home-page.9007f6b1.chunk.js.map",
+    "login-page.1264cc2b.chunk.css.map": "/47-projects-react-task08-phonebook/static/css/login-page.1264cc2b.chunk.css.map",
+    "login-page.fb301815.chunk.js.map": "/47-projects-react-task08-phonebook/static/js/login-page.fb301815.chunk.js.map",
+    "regiter-page.ab1d0023.chunk.css.map": "/47-projects-react-task08-phonebook/static/css/regiter-page.ab1d0023.chunk.css.map",
+    "regiter-page.aacf2466.chunk.js.map": "/47-projects-react-task08-phonebook/static/js/regiter-page.aacf2466.chunk.js.map",
+    "contacts-page.45411794.chunk.css.map": "/47-projects-react-task08-phonebook/static/css/contacts-page.45411794.chunk.css.map",
+    "contacts-page.a05cd4bd.chunk.js.map": "/47-projects-react-task08-phonebook/static/js/contacts-page.a05cd4bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc342f6a.css",
+    "static/js/main.45aa911f.js"
+  ]
+}
